@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/voronko-nails/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/voronko-nails/static/js/main.2bb8d171.chunk.js",
+    "main.js.map": "/voronko-nails/static/js/main.2bb8d171.chunk.js.map",
+    "runtime-main.js": "/voronko-nails/static/js/runtime-main.12c5c5bb.js",
+    "runtime-main.js.map": "/voronko-nails/static/js/runtime-main.12c5c5bb.js.map",
+    "static/css/2.800be05e.chunk.css": "/voronko-nails/static/css/2.800be05e.chunk.css",
+    "static/js/2.5a38644e.chunk.js": "/voronko-nails/static/js/2.5a38644e.chunk.js",
+    "static/js/2.5a38644e.chunk.js.map": "/voronko-nails/static/js/2.5a38644e.chunk.js.map",
+    "static/js/3.1c1ff3dc.chunk.js": "/voronko-nails/static/js/3.1c1ff3dc.chunk.js",
+    "static/js/3.1c1ff3dc.chunk.js.map": "/voronko-nails/static/js/3.1c1ff3dc.chunk.js.map",
+    "index.html": "/voronko-nails/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/voronko-nails/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/voronko-nails/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5a38644e.chunk.js.LICENSE.txt": "/voronko-nails/static/js/2.5a38644e.chunk.js.LICENSE.txt",
+    "static/media/colors.703306bb.jpg": "/voronko-nails/static/media/colors.703306bb.jpg",
+    "static/media/figers.3772fdb5.jpg": "/voronko-nails/static/media/figers.3772fdb5.jpg",
+    "static/media/gold.e3dc20ac.jpg": "/voronko-nails/static/media/gold.e3dc20ac.jpg",
+    "static/media/softness.9bb410e9.jpg": "/voronko-nails/static/media/softness.9bb410e9.jpg",
+    "static/media/yellow.7e47e11e.jpg": "/voronko-nails/static/media/yellow.7e47e11e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12c5c5bb.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.5a38644e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2bb8d171.chunk.js"
+  ]
+}
